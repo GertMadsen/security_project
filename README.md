@@ -8,7 +8,10 @@
 
 ### A2
 * Anvende korrekte retningslinier for password
-* Implementere password check (https://www.npmjs.com/package/owasp-password-strength-test)
+* Implementere password check 
+  * (https://www.npmjs.com/package/owasp-password-strength-test)
+* Checke password op mod de mest usikre passwords. 
+  * (https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/worst-passwords-2017-top100-slashdata.txt)
 * Sikre mod Brute Force Attack ved at logge fejlagtige logins
 * Korrekte error-messages 
   * Mulig opgave til klasse: De skal ændre fejlmeddelelse så den overholder retningslinier.
