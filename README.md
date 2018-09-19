@@ -14,7 +14,7 @@
   * (https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/worst-passwords-2017-top100-slashdata.txt)
 * Sikre mod Brute Force Attack ved at logge fejlagtige logins
 * Korrekte error-messages 
-  * Mulig opgave til klasse: De skal ændre fejlmeddelelse så den overholder retningslinier.
+  * Mulig opgave til klasse: De skal ændre fejlmeddelelser så de overholder retningslinier.
 * Gemme password korrekt i database.
   * Mulig opgave til klasse: Tilføje så password bliver hashed med salt inden det skrives til databasen
 
